@@ -16,8 +16,8 @@ To set up and run the project, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Keskinksn/deepseek-local-chatbot.git
-cd deepseek-local-chatbot
+git clone https://github.com/Keskinksn/local-deepseek-r1.git
+cd local-deepseek-r1
 ```
 
 ### 2️⃣ Install Dependencies
