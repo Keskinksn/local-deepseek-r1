@@ -66,18 +66,3 @@ openpyxl==3.0.10
 
 ## Python Version
 This project is developed using **Python 3.11.5**. It is recommended to use the same version to avoid compatibility issues.
-
-## How It Works
-### 1️⃣ Uploading Files
-- Click on **'Upload a file'** on the sidebar.
-- Supports multiple file formats (**TXT, CSV, JSON, Excel, PDF, DOCX**).
-- Extracts and preprocesses text from uploaded files for chatbot interactions.
-
-### 2️⃣ Chatting with the Bot
-- Type messages in the chat input box.
-- The model will respond based on past interactions and file content.
-
-### 3️⃣ Managing Chat History
-- Past chats are displayed in the sidebar.
-- Click on a chat to load it or delete it if needed.
-- New chat sessions can be started using the **'New Chat'** button.
