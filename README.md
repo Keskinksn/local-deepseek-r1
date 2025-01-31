@@ -1,6 +1,6 @@
 # 🧠 DeepSeek R1 (7b) Local Chatbot
 
-![Description of Image](image/Deepseek_local.png)
+![Description of Image](Deepseek_local.png)
 
 ## Overview
 DeepSeek R1 ChatBot is a locally hosted chatbot interface powered by **DeepSeek R1 (7B)**, built using **Streamlit** for an interactive UI. This chatbot supports file uploads, chat history management, and allows users to engage with the model efficiently.
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Install Ollama
-![Description of Image](image/model_r1.png)
+![Description of Image](model_r1.png)
 
 Before running DeepSeek R1 locally, you need to install **Ollama**. Visit [Ollama's official website](https://ollama.com/) and download the appropriate version for your operating system.
 
@@ -51,7 +51,7 @@ ollama run deepseek-r1:7b
 ```
 Once the model is running, you can start asking questions!
 
-![Description of Image](image/console.png)
+![Description of Image](console.png)
 
 ## Dependencies
 The project requires the following Python libraries:
